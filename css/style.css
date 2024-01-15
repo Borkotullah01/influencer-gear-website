@@ -350,7 +350,7 @@ body{
 /* Medium Devices */
 
 /* Mobile  Devices*/
-@media screen and (max-width: 768px) and (min-width: 576px) {
+@media screen and (max-width: 768px) {
     .nav {
         flex-direction: column;
     }
